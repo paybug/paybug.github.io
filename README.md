@@ -1,8 +1,8 @@
 # Pay Bug
 ## Welcome to Pay Bug
-### A tool to find bug and vulnerability in Pay System
+### An analysis on Payment System
 
-**Reference**
+**Payment systems we will cover**
 1. Digital Payment - Paypal, Payoneer, Google Pay, Paytm, Amazon Pay, Apple Pay, stripe
 2. Bank
 3. Card System - American Express
